@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Orange Hrm" parallel="tests" thread-count="1">
+
+	<listeners>
+		<listener class-name="commons.MethodListener" />
+		<listener class-name="reportConfig.AllureTestListener" />
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+<!-- 		<listener class-name="retryConfig.RetryListener" /> -->
+	</listeners>
+
+	<parameter name="browser" value="chrome" />
+	<parameter name="url" value="testing" />
+
+	<test name="Run on CHROME">
+		<classes>
+			<class name="admin.demo" />
+		</classes>
+	</test>
+
+	<groups>
+		<run>
+			<include name="smoke" />
+		</run>
+	</groups>
+
+</suite>

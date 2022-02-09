@@ -1,0 +1,40 @@
+[INFO ] [2022-02-08 15:46:01,734] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-08 15:46:01,738] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-08 15:46:37,933] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-08 15:46:37,933] OS name = windows 10
+[INFO ] [2022-02-08 15:46:37,933] Driver instance name = windows 10
+[INFO ] [2022-02-08 15:53:24,483] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-08 15:53:24,492] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-08 15:53:35,082] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-08 15:53:40,170]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-08 15:53:40,766] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-08 15:53:40,766] OS name = windows 10
+[INFO ] [2022-02-08 15:53:40,767] Driver instance name = windows 10
+[INFO ] [2022-02-08 16:17:47,801] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-08 16:17:47,805] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-08 16:18:18,393] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-08 16:18:18,393] OS name = windows 10
+[INFO ] [2022-02-08 16:18:18,393] Driver instance name = windows 10
+[INFO ] [2022-02-08 16:18:45,884] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-08 16:18:45,888] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-08 16:19:28,398] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-08 16:19:28,410] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-08 16:19:39,069] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-08 16:19:44,204]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-08 16:19:44,839] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-08 16:19:44,839] OS name = windows 10
+[INFO ] [2022-02-08 16:19:44,840] Driver instance name = windows 10
+[INFO ] [2022-02-09 15:48:25,815] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-09 15:48:25,819] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-09 15:49:08,196] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-09 15:49:08,197] OS name = windows 10
+[INFO ] [2022-02-09 15:49:08,199] Driver instance name = windows 10
+[INFO ] [2022-02-09 16:58:42,710] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-09 16:58:42,721] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-09 16:59:27,415] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-09 16:59:27,425] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-09 16:59:38,038] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-09 16:59:43,169]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-09 16:59:43,802] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-09 16:59:43,802] OS name = windows 10
+[INFO ] [2022-02-09 16:59:43,803] Driver instance name = windows 10

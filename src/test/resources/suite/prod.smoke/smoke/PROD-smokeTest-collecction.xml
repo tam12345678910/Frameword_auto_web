@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestNG Dadadriver suite">
+
+	<suite-files>
+		<suite-file path="./runNopCommerce.xml" />
+	</suite-files>
+</suite>
