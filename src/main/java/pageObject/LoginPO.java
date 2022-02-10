@@ -3,6 +3,7 @@ package pageObject;
 import org.openqa.selenium.WebDriver;
 
 import commons.BasePage;
+import pageUIs.BasePageUI;
 import pageUIs.LoginPUI;
 
 public class LoginPO extends BasePage {
@@ -29,4 +30,18 @@ public class LoginPO extends BasePage {
 			return PageGeneratorManager.getHomePage(driver);
 	}
 
+	public HomePO loginToSystem(WebDriver driver, String userName, String password) {
+		waitForElementVisible(driver, BasePageUI.USER_LOGIN_TEXTBOX);
+		sendkeyToElement(driver, BasePageUI.USER_LOGIN_TEXTBOX, userName);
+		sendkeyToElement(driver, BasePageUI.PASSWORD_LOGIN_TEXTBOX, password);
+		waitForElementClickable(driver, BasePageUI.LOGIN_BUTTON);
+		clickToElement(driver, BasePageUI.LOGIN_BUTTON);
+
+		if (driver.toString().contains("internet explorer")) {
+			sleepInSecond(3);
+		}
+
+		return PageGeneratorManager.getHomePage(driver);
+	}
 }
+

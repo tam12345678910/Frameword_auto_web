@@ -1,6 +1,9 @@
 package commons;
 
 import java.io.File;
+import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 import lombok.Getter;
 
@@ -37,6 +40,5 @@ public class GlobalConstants {
 	private final String lambdaKey = "yhFwU3pQ3bTOa0omWrr0w3DxHLju2XLEHjDWJwcDbxeIBjrg5N";
 	private final String lambdaUrl = "https://" + lambdaUsername + ":" + lambdaKey + "@hub.lambdatest.com/wd/hub";
 	private final String DATA_JSON_PATH = System.getProperty("user.dir") + File.separator + "src" + File.separator + "main" + File.separator + "resources" + File.separator + "testdata" + File.separator + "data.json";
-
-//	public static final List<String> test =  Stream.of("test","test").collect(Collectors.toList());
+	private final List<String> ADMIN_CLOUNM =  Stream.of("","Username","User Role", "Employee Name", "Status").collect(Collectors.toList());
 }

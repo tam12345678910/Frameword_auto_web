@@ -55,7 +55,7 @@ public class BasePage {
 		return driver.manage().getCookies();
 	}
 
-	public void setAllCookies(WebDriver driver, Set<Cookie> allCookies) {
+	public void setAllCookies(WebDriver driver, List<Cookie> allCookies) {
 		for (Cookie cookie : allCookies) {
 			driver.manage().addCookie(cookie);
 		}
@@ -797,7 +797,7 @@ public class BasePage {
 	}
 	
 	public List<WebElement> getAllColumnsInRow(WebDriver driver, int rowIndex, String locator) {
-		return getElements(driver, getRowByIndex(driver, rowIndex, locator) + rowXpath);
+		return getRowByIndex(driver, rowIndex, locator).findElements(By.xpath(columnXpath)) ;
 	}
 	
 	public WebElement getCell(WebDriver driver, int rowIndex, int colIndex, String locator) {

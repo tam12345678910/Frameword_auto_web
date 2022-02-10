@@ -14,10 +14,9 @@ public class HomePO extends BasePage {
 	}
 
 	public Services navigateAdminPage() {
-		hoverToElement(driver, HomePUI.HOVER_SERVICES);
-		waitForAllElementVisible(driver, HomePUI.THANH_TOAN_HOA_DON_LINK);
-		clickToElement(driver, HomePUI.THANH_TOAN_HOA_DON_LINK);
-		return new Services(driver);
+		waitForElementClickable(driver, HomePUI.ADMIN_PAGE);
+		clickToElement(driver, HomePUI.ADMIN_PAGE);
+		return PageGeneratorManager.getAdminPage(driver);
 	}
 
 }

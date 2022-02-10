@@ -38,3 +38,176 @@
 [INFO ] [2022-02-09 16:59:43,802] Post-Condition: Close browser 'chrome'
 [INFO ] [2022-02-09 16:59:43,802] OS name = windows 10
 [INFO ] [2022-02-09 16:59:43,803] Driver instance name = windows 10
+[INFO ] [2022-02-10 11:34:26,880] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 11:34:28,078] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-10 11:34:28,078] OS name = windows 10
+[INFO ] [2022-02-10 11:34:28,079] Driver instance name = windows 10
+[INFO ] [2022-02-10 11:35:24,691] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 11:35:25,423] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-10 11:35:25,423] OS name = windows 10
+[INFO ] [2022-02-10 11:35:25,424] Driver instance name = windows 10
+[INFO ] [2022-02-10 11:38:48,807] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 11:41:35,137] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 11:42:08,507] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 11:45:40,152] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 11:45:51,740] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-10 11:45:51,740] OS name = windows 10
+[INFO ] [2022-02-10 11:45:51,741] Driver instance name = windows 10
+[INFO ] [2022-02-10 11:46:33,897] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 11:50:14,104] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 11:50:33,426] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 11:50:33,426] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 11:50:45,356] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 11:50:45,362]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-02-10 11:50:46,030] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-10 11:50:46,030] OS name = windows 10
+[INFO ] [2022-02-10 11:50:46,031] Driver instance name = windows 10
+[INFO ] [2022-02-10 13:18:37,489] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 13:19:08,830] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 13:19:08,831] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 13:19:20,824] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 13:19:29,000]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-10 13:20:43,693] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 13:21:13,875] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 13:21:13,876] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 13:21:25,803] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 13:21:25,805]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-10 13:21:26,413] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 13:21:26,415] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 13:23:13,897] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-10 13:23:13,897] OS name = windows 10
+[INFO ] [2022-02-10 13:23:13,897] Driver instance name = windows 10
+[INFO ] [2022-02-10 13:54:16,978] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 13:54:45,751] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 13:54:45,751] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 13:58:27,663] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 13:58:27,745]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-02-10 13:58:28,340] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-10 13:58:28,340] OS name = windows 10
+[INFO ] [2022-02-10 13:58:28,341] Driver instance name = windows 10
+[INFO ] [2022-02-10 13:58:59,397] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 13:59:19,650] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 13:59:19,650] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 14:15:01,111] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 14:15:20,707] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 14:15:20,707] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 14:25:29,288] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 14:25:49,343] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 14:25:49,344] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 15:29:00,303] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 15:29:22,549] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 15:29:22,549] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 15:36:24,175] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 15:36:45,602] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 15:36:45,602] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 15:36:59,411] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-10 15:36:59,412] OS name = windows 10
+[INFO ] [2022-02-10 15:36:59,412] Driver instance name = windows 10
+[INFO ] [2022-02-10 15:37:27,456] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 15:37:47,851] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 15:37:47,852] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 15:38:00,744] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-10 15:38:00,745] OS name = windows 10
+[INFO ] [2022-02-10 15:38:00,746] Driver instance name = windows 10
+[INFO ] [2022-02-10 15:40:06,426] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 15:40:26,287] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 15:40:26,287] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 15:42:24,743] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 15:42:44,909] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 15:42:44,909] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 15:43:23,311] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-10 15:43:23,312] OS name = windows 10
+[INFO ] [2022-02-10 15:43:23,312] Driver instance name = windows 10
+[INFO ] [2022-02-10 15:44:29,804] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 15:44:51,195] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 15:44:51,195] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 15:45:19,408] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-10 15:45:19,408] OS name = windows 10
+[INFO ] [2022-02-10 15:45:19,408] Driver instance name = windows 10
+[INFO ] [2022-02-10 15:45:59,011] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 15:46:20,434] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 15:46:20,434] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 15:46:34,437] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-10 15:46:34,437] OS name = windows 10
+[INFO ] [2022-02-10 15:46:34,437] Driver instance name = windows 10
+[INFO ] [2022-02-10 15:47:54,230] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 15:48:14,818] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 15:48:14,819] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 15:48:27,772] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-10 15:48:27,773] OS name = windows 10
+[INFO ] [2022-02-10 15:48:27,773] Driver instance name = windows 10
+[INFO ] [2022-02-10 15:51:38,929] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 15:51:59,410] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 15:51:59,410] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 15:52:11,890] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 16:11:26,022] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 16:11:46,872] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 16:11:46,873] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 16:11:59,253] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 16:13:36,832] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 16:13:57,600] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 16:13:57,605] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 16:14:16,247] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 16:27:13,184] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 16:27:35,325] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 16:27:35,326] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 16:27:48,753] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-10 16:27:48,755] OS name = windows 10
+[INFO ] [2022-02-10 16:27:48,755] Driver instance name = windows 10
+[INFO ] [2022-02-10 16:34:08,675] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 16:34:28,964] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 16:34:28,965] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 16:34:42,627] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-10 16:34:42,627] OS name = windows 10
+[INFO ] [2022-02-10 16:34:42,628] Driver instance name = windows 10
+[INFO ] [2022-02-10 16:35:20,762] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 16:35:41,155] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 16:35:41,155] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 16:35:54,226] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-10 16:35:54,226] OS name = windows 10
+[INFO ] [2022-02-10 16:35:54,226] Driver instance name = windows 10
+[INFO ] [2022-02-10 16:36:40,726] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 16:37:01,039] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 16:37:01,039] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 16:37:19,540] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 16:49:28,284] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 16:49:48,776] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 16:49:48,777] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 16:50:01,729] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-10 16:50:01,730] OS name = windows 10
+[INFO ] [2022-02-10 16:50:01,731] Driver instance name = windows 10
+[INFO ] [2022-02-10 16:52:47,229] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 16:53:07,528] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 16:53:07,529] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 16:53:20,556] Post-Condition: Close browser 'chrome'
+[INFO ] [2022-02-10 16:53:20,556] OS name = windows 10
+[INFO ] [2022-02-10 16:53:20,556] Driver instance name = windows 10
+[INFO ] [2022-02-10 17:03:25,453] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 17:03:46,099] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 17:03:46,100] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 17:04:03,510] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 17:08:42,572] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 17:09:02,859] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 17:09:02,859] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 17:10:20,800] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 17:10:41,187] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 17:10:41,187] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 17:13:58,017] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 17:14:18,267] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 17:14:18,268] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 17:18:42,372] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 17:19:02,816] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 17:19:02,816] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 17:20:48,184] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 17:21:09,890] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 17:21:09,890] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 17:23:25,860] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 17:23:46,120] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 17:23:46,121] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 17:35:58,869] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 17:40:25,891] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 17:40:46,818] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 17:40:46,818] HomePage - Step 01: Click to Register Link
+[INFO ] [2022-02-10 17:42:42,013] Pre-Condition - Step 02: Login with Admin role
+[INFO ] [2022-02-10 17:43:02,521] HomePage - Step 01: getHomePage
+[INFO ] [2022-02-10 17:43:02,521] HomePage - Step 01: Click to Register Link

@@ -7,6 +7,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.ArrayList;
 import java.util.Base64;
+import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Set;
 
@@ -20,7 +21,7 @@ import commons.BasePage;
 import io.restassured.http.ContentType;
 import io.restassured.http.Cookies;
 import io.restassured.response.Response;
-public class RestAssuredAPIUtils extends BasePage {
+public class RestAssuredAPIUtils {
 	private static Cookies cookies = null;
 	
 	protected static Log log;
@@ -61,11 +62,12 @@ public class RestAssuredAPIUtils extends BasePage {
 	public static Response getResponseLoginAPI(String baseUrl, String user, String password) {
 		
 		return given().baseUri("https://opensource-demo.orangehrmlive.com")
-				.basePath("/index.php/auth/login").queryParam("", "")
+				.basePath("/Account/v1/Authorized")
+//				.queryParam("", "")
 				.contentType(ContentType.URLENC)
 				.header("trust-code", encode(user))
-				.formParam("login", user)
-				.formParam("password", password)
+				.formParam("userName", "string")
+				.formParam("password", "string")
                 .when()
                 .post()
                 .then()
